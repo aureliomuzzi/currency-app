@@ -10,15 +10,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Técnicas de Desenvolvimento
 
-### Lints and fixes files
-```
-npm run lint
-```
+<ul>
+    <li>Passagem de Parametros (Props e Emits)</li>
+    <li>Reatividade com Setup()</li>
+    <li>Consumo de API externa</li>
+    <li>Temporização</li>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+</ul>
